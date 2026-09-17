@@ -64,7 +64,9 @@ Dimensi yang dapat digunakan meliputi:
 
 Fitur ini membantu pengguna memahami data dari berbagai perspektif.
 
-![Kubus OLAP 3D](img/olap-3d.png)
+<p align="center">
+  <img src="img/Kubus%20OLAP.png" alt="Kubus OLAP 3D MindScope" width="100%">
+</p>
 
 ---
 
